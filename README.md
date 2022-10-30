@@ -10,7 +10,7 @@
 <h2>Connect With Me</h2>
 
 <a href="mailto:nbist291@gmail.com">
-  <img src="https://img.icons8.com/color/344/gmail-new.png" width="50px" height="50px">
+  <img src="https://img.icons8.com/bubbles/344/gmail-new.png" width="50px" height="50px">
 </a> 
 <a href="https://www.facebook.com/nirajan.bist.33">
   <img src="https://img.icons8.com/fluency/344/facebook-new.png" width="50px" height="50px">
