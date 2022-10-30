@@ -9,7 +9,7 @@
 <h2>Connect With Me</h2>
 
 <a href="mailto:nbist291@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50px">
 </a> 
 <a href="https://www.facebook.com/nirajan.bist.33">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
