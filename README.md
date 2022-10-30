@@ -12,7 +12,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50px">
 </a> 
 <a href="https://www.facebook.com/nirajan.bist.33">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" width="50px">
 </a> 
 
 <a href="https://twitter.com/nbist01">
