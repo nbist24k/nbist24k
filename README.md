@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning web desgining
 - 📫 How to reach me - nbist270@gmail.com
 
+<br>
 
 <h2>Connect With Me</h2>
 
@@ -12,7 +13,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50px" height="50px">
 </a> 
 <a href="https://www.facebook.com/nirajan.bist.33">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" width="50px" height="50px">
+  <img src="https://img.icons8.com/fluency/344/facebook-new.png" width="50px" height="50px">
 </a> 
 
 <a href="https://twitter.com/nbist01">
