@@ -1,4 +1,4 @@
-![coding](https://user-images.githubusercontent.com/38756870/198891783-b77e52b6-4a93-48a8-bfad-d7fdd34f5a72.gif=100)
+![coding](https://user-images.githubusercontent.com/38756870/198891783-b77e52b6-4a93-48a8-bfad-d7fdd34f5a72.gif)
 
 - 👋 Hi, I’m Nirajan
 - 👀 I’m interested in programming and cybersecurity
