@@ -17,7 +17,7 @@
 </a> 
 
 <a href="https://twitter.com/nbist01">
-  <img src="https://img.icons8.com/color/344/twitter--v1.png"  width="50px" height="50px">
+  <img src="https://img.icons8.com/color/344/twitter-circled--v1.png"  width="50px" height="50px">
 </a> 
 
 
