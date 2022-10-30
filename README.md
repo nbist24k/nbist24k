@@ -17,7 +17,7 @@
 </a> 
 
 <a href="https://twitter.com/nbist01">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <img src="https://img.icons8.com/color/344/twitter--v1.png"  width="50px" height="50px">
 </a> 
 
 
