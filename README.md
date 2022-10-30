@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Nirajan 
 - 👀 I’m interested in programming and cybersecurity
 - 🌱 I’m currently learning web desgining
-- 📫 How to reach me - nbist270@gmail.com
 
 <br>
 
