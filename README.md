@@ -9,10 +9,10 @@
 <h2>Connect With Me</h2>
 
 <a href="mailto:nbist291@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50px" height="40px">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50px" height="50px">
 </a> 
 <a href="https://www.facebook.com/nirajan.bist.33">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" width="50px" height="40px">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" width="50px" height="50px">
 </a> 
 
 <a href="https://twitter.com/nbist01">
