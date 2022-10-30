@@ -1,4 +1,4 @@
-<table>
+<table border="0px">
   <tr>
     <td><img src="https://user-images.githubusercontent.com/38756870/198891783-b77e52b6-4a93-48a8-bfad-d7fdd34f5a72.gif" width="200px"/></td>
     <td>
