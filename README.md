@@ -64,10 +64,3 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nbist24k&color=brightgreen)
-
-_"Code is like humor. When you have to explain it, it's bad." – Cory House_
-
-</div>
