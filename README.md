@@ -35,6 +35,7 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Platforms
 
@@ -71,7 +72,7 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 ## 📫 How to reach me
 
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/nirajan-bist)
-- 📧 Email me at [nbist@myseneca.ca](mailto:nbist0001@gmail.com)
+- 📧 Email me at [nbist0001@gmail.com](mailto:nbist0001@gmail.com)
 <!-- - 🌐 Visit my [portfolio website](https://nirajan-bist.github.io) -->
 
 <div align="center">
