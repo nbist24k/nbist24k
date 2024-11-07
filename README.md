@@ -75,7 +75,7 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 
 | Platform    | Link                                                    |
 | ----------- | ------------------------------------------------------- |
-| 💼 LinkedIn | [Connect with me](https://linkedin.com/in/nirajan-bist) |
+| 💼 LinkedIn | [Connect with me](https://www.linkedin.com/in/nirajan-bist/) |
 | 📧 Email    | [nbist0001@gmail.com](mailto:nbist0001@gmail.com)       |
 | 💬 Discord  | `nekra001`                                              |
 
