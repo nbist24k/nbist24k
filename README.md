@@ -14,7 +14,7 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 
 <div align="center">
 
-### Frontend
+### Frontend Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +22,7 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
+### Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -37,7 +37,11 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools & Platforms
+### Design Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Development Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -49,18 +53,18 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 - NodeJS & MongoDB
 - Advanced Database Services
 - Advanced OOP(C++)
+- UI/UX Design with Figma
 
 ## 📫 Get in Touch
 
 <div align="center">
 
-| Platform    | Link                                                    |
-| ----------- | ------------------------------------------------------- |
+| Platform    | Link                                                         |
+| ----------- | ------------------------------------------------------------ |
 | 💼 LinkedIn | [Connect with me](https://www.linkedin.com/in/nirajan-bist/) |
-| 📧 Email    | [nbist0001@gmail.com](mailto:nbist0001@gmail.com)       |
-| 💬 Discord  | `nekra001`                                              |
+| 📧 Email    | [nbist0001@gmail.com](mailto:nbist0001@gmail.com)            |
+| 💬 Discord  | `nekra001`                                                   |
 
 </div>
 
 ---
-
