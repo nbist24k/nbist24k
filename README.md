@@ -69,11 +69,19 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 
 </div> -->
 
-## 📫 How to reach me
+## 📫 Get in Touch
 
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/nirajan-bist)
-- 📧 Email me at [nbist0001@gmail.com](mailto:nbist0001@gmail.com)
-<!-- - 🌐 Visit my [portfolio website](https://nirajan-bist.github.io) -->
+<div align="center">
+
+| Platform    | Link                                                    |
+| ----------- | ------------------------------------------------------- |
+| 💼 LinkedIn | [Connect with me](https://linkedin.com/in/nirajan-bist) |
+| 📧 Email    | [nbist0001@gmail.com](mailto:nbist0001@gmail.com)       |
+| 💬 Discord  | `nekra001`                                              |
+
+</div>
+
+---
 
 <div align="center">
 
