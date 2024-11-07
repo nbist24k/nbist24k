@@ -44,7 +44,7 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 
 </div>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -52,7 +52,7 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbist24k&layout=compact&theme=tokyonight)
 
-</div>
+</div> -->
 
 ## 🌱 Currently Learning
 
