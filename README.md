@@ -59,11 +59,9 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 
 <div align="center">
 
-| Platform    | Link                                                         |
-| ----------- | ------------------------------------------------------------ |
-| 💼 LinkedIn | [Connect with me](https://www.linkedin.com/in/nirajan-bist/) |
-| 📧 Email    | [nbist0001@gmail.com](mailto:nbist0001@gmail.com)            |
-| 💬 Discord  | `nekra001`                                                   |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirajan-bist/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nbist0001@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nekra001)
 
 </div>
 
