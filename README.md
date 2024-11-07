@@ -44,30 +44,11 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 
 </div>
 
-<!-- ## 📊 GitHub Stats
-
-<div align="center">
-
-![Nirajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbist24k&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbist24k&layout=compact&theme=tokyonight)
-
-</div> -->
-
 ## 🌱 Currently Learning
 
 - NodeJS & MongoDB
 - Advanced Database Services
 - Advanced OOP(C++)
-
-<!-- ## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirajan-bist)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nbist0001@gmail.com)
-
-</div> -->
 
 ## 📫 Get in Touch
 
