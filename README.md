@@ -49,10 +49,9 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 
 ## 🌱 Currently Learning
 
-- NodeJS & MongoDB
-- Advanced Database Services
-- Advanced OOP(C++)
-- UI/UX Design with Figma
+- DSA using Python
+- ReactJS with NextJS
+
 
 ## 📫 Get in Touch
 
