@@ -1,4 +1,4 @@
-# Hi there, I'm Nirajan Bist 👋
+# Hi there, I'm Nirajan 👋
 
 <div align="center">
 
