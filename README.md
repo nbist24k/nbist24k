@@ -51,8 +51,7 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 
 ## 🌱 Currently Learning
 
-- DSA using Python
-- ReactJS with NextJS
+- Accessible development for web apps
 
 
 ## 📫 Get in Touch
