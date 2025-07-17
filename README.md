@@ -51,7 +51,10 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 
 ## 🌱 Currently Learning
 
+- Async JS
+- Promises & Rejections
 - Working with APIs on FrontEnd
+  
 
 
 ## 📫 Get in Touch
