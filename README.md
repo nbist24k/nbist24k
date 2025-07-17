@@ -51,7 +51,7 @@ I'm a Computer Programming student at Seneca College, passionate about building 
 
 ## 🌱 Currently Learning
 
-- Accessible development for web apps
+- Working with APIs on FrontEnd
 
 
 ## 📫 Get in Touch
