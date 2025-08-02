@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Programming student at Seneca College, passionate about building web applications and solving real-world problems through code. Currently exploring the vast world of full-stack development and always eager to learn new technologies.
+A passionate developer building web applications and solving real-world problems through code. Currently exploring the vast world of front-end development and always eager to learn new technologies.
 
 ## 🛠️ Tech Stack
 
